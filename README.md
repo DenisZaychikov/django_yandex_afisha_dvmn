@@ -12,8 +12,8 @@
 - Запустите сервер командой `python3 manage.py runserver`
 
 ## Как добавить данные
-(Данные хранятся в папке *places/data* в формате *.json*)
-- Добавить файл: запустите команду `python3 manage.py load_place "http://denisz.pythonanywhere.com/places/data/Антикафе Bizone"`
+(Данные хранятся в папке *media/data* в формате *.json*)
+- Добавить файл: запустите команду `python3 manage.py load_place "http://denisz.pythonanywhere.com/media/data/Антикафе Bizone"`
 
 ## Переменные окружения
 
